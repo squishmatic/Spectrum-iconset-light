@@ -58,7 +58,7 @@
   <path
      d="M 11.5,5 C 7.36,5 4.0000001,8.3599999 4,12.5 c 0,4.14 3.3600001,7.5 7.5,7.5 1.964788,0 3.756106,-0.76222 5.09375,-2 L 22,18 18.65625,14.65625 C 18.864192,13.968633 19,13.255184 19,12.5 19,8.36 15.64,5.0000001 11.5,5 z M 9.3125,9 11.5,11.25 13.75,9.03125 15,10.3125 12.75,12.5 14.96875,14.75 13.6875,16 11.5,13.75 9.25,15.96875 8,14.6875 10.25,12.5 8.03125,10.25 9.3125,9 z"
      id="path2396"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <g
      transform="translate(-21.072165,5.6769759)"

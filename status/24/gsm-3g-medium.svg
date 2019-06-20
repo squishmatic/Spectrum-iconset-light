@@ -81,7 +81,7 @@
        x="19"
        y="3"
        id="rect3165"
-       style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      id="g3894"
@@ -100,7 +100,7 @@
        x="15"
        y="8"
        id="rect3177"
-       style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <rect
      width="2"
@@ -110,7 +110,7 @@
      x="12.023309"
      y="13"
      id="rect3179"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      width="2"
      height="3"
@@ -119,10 +119,10 @@
      x="8.0233088"
      y="17"
      id="rect3181"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 2.5228523,12 c -0.06925,0 -0.1276406,0.006 -0.1875,0.03125 -0.057115,0.02622 -0.1129571,0.08181 -0.15625,0.125 l -0.03125,0.03125 c -0.032203,0.03814 -0.074055,0.07828 -0.09375,0.125 -0.096075,0.182877 -0.063812,0.405327 0.09375,0.5625 l 2.875,2.875 0,3.75 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-3.75 2.875,-2.875 c 0.1575625,-0.157173 0.1898247,-0.379623 0.09375,-0.5625 -0.019695,-0.04672 -0.061547,-0.08686 -0.09375,-0.125 l -0.03125,-0.03125 C 8.7755741,12.065447 8.6442978,12.006356 8.5228523,12 l -0.03125,0 -2.96875,0 -2.96875,0 -0.03125,0 z m 1.21875,1 1.28125,0 0,1.25 -1.28125,-1.25 z m 2.28125,0 1.28125,0 -1.28125,1.28125 0,-1.28125 z"
      id="rect3184"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>

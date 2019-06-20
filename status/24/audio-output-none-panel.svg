@@ -60,7 +60,7 @@
        d="m 8.0133544,0 c -0.3052235,0 -0.5665273,0.1279595 -0.75,0.34375 L 5.0133544,3 c 0,0 -2,0 -2,0 -0.552,0 -1,0.448 -1,1 -0.00627,0.996071 0.00222,2.014549 0,3 0,0.552 0.4480001,1 1,1 l 2,0 2.15625,2.46875 C 7.3409628,10.773669 7.6389088,11 8.0133544,11 c 0.552,0 1.0000004,-0.448 1,-1 l 0,-9 c 0,-0.552 -0.4480003,-1 -1,-1 z" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3180"
        d="m 8.0133544,-1 c -0.3052235,0 -0.5665273,0.1279595 -0.75,0.34375 L 5.0133544,2 c 0,0 -2,0 -2,0 -0.552,0 -1,0.448 -1,1 -0.00627,0.996071 0.00222,2.014549 0,3 0,0.552 0.4480001,1 1,1 l 2,0 2.15625,2.46875 C 7.3409628,9.773669 7.6389088,10 8.0133544,10 c 0.552,0 1.0000004,-0.448 1,-1 l 0,-9 c 0,-0.552 -0.4480003,-1 -1,-1 z" />
     <path

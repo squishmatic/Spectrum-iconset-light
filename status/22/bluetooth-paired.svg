@@ -41,11 +41,11 @@
   <path
      d="M 5.788737,18.294 9.2942534,14.553666 2.7057475,7.9226089 m -1e-7,6.0660801 L 9.2942534,7.3576307 5.742683,3.705494"
      id="path3367"
-     style="fill:none;stroke:#3c3c3c;stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:1.41149473;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
      d="M 5.507463,3.8746361 5.595703,18.030475"
      id="path3590"
-     style="fill:none;stroke:#3c3c3c;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 12.999747,14 c -1.108,0 -2,0.910763 -2,2.03125 l 0,0.96875 c -0.554,0 -0.9999996,0.446 -0.9999996,1 l 0,3 c 0,0.554 0.4459996,1 0.9999996,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 c 0,-1.120486 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
      id="path2441"
@@ -53,5 +53,5 @@
   <path
      d="m 12.999747,13 c -1.108,0 -2,0.910763 -2,2.03125 l 0,0.96875 c -0.554,0 -0.9999996,0.446 -0.9999996,1 l 0,3 c 0,0.554 0.4459996,1 0.9999996,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 c 0,-1.120486 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z"
      id="rect2822"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

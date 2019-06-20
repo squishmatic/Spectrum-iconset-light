@@ -56,12 +56,12 @@
      d="M 11.91791,19.854 2.85,10.815573 c 0,0 2.8977535,-3.294409 9.131958,-3.294409 6.203557,0 9.168042,3.3 9.168042,3.3 z" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3683-6"
      d="M 11.91791,18.854478 2.85,9.816051 c 0,0 2.8977535,-3.294409 9.131958,-3.294409 6.203557,0 9.168042,3.3 9.168042,3.3 z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:none;stroke:#3c3c3c;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.3;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3868"
      d="m 11.96875,7.28125 c -2.9839462,0 -5.1261975,0.795122 -6.53125,1.5625 C 4.4355757,9.390957 4.2616143,9.654367 4,9.90625 l 7.90625,7.875 L 20,9.875 C 19.727116,9.619834 19.54237,9.388917 18.53125,8.84375 17.104643,8.0745639 14.936715,7.28125 11.96875,7.28125 z" />
 </svg>

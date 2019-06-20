@@ -83,7 +83,7 @@
        inkscape:connector-curvature="0"
        d="m 2.9999995,-2.0000003 c -0.554,0 -1,0.446 -1,1 l 0,13.0000003 c 0,0.554 0.446,1 1,1 L 8,13 c 0.554,0 1,-0.446 1,-1 L 9,-1.0000003 c 0,-0.554 -0.446,-1 -1,-1 l -5.0000005,0 z m 0,3 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m 2.0000005,1 1,0 L 8,9 7,9 7,1.9999997 z m -4.0000005,1 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1.0000003 -1,0 0,-1.0000003 z m 2,0 1,0 0,1.0000003 -1,0 0,-1.0000003 z m -2,2.0000003 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z"
        id="rect2397"
-       style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

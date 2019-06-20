@@ -62,11 +62,11 @@
   <path
      d="M 12.9497,12.949748 12.384101,12.384049 M 12.454801,3.5452288 12.9497,3.0502487 M 3.6159,3.6159288 3.0503,3.0502487 M 1,7.999999 l 1,0 m 12,0 1,0 M 8,1.9999989 8,0.9999988"
      id="path2496"
-     style="fill:none;stroke:#3c3c3c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
      d="M 8,3.9999989 C 5.7908711,3.9999988 4,5.79086 4,7.999999 4,8.286745 4.036407,8.574099 4.09375,8.843749 4.674795,8.316212 5.3949988,7.937499 6.25,7.937499 c 1.615109,0 2.924891,1.187134 3.1875,2.71875 0.30803,0.176257 0.5659,0.410943 0.8125,0.65625 0.0052,0.0052 0.02604,-0.0053 0.03125,0 C 11.333643,10.591923 12,9.371757 12,7.999999 12,5.79086 10.209129,3.9999989 8,3.9999989 z M 6.25,8.999999 c -0.8447283,0 -1.5684023,0.455366 -1.9531252,1.111607 C 4.0802399,9.957147 3.8035998,9.857142 3.4999999,9.857142 c -0.69,0 -1.2499999,0.48 -1.25,1.071428 0,0.132826 0.026505,0.257591 0.078125,0.375 C 1.5433711,11.604119 1,12.284583 1,13.071427 c 0,1.068429 1.0035,1.928572 2.25,1.928572 l 4.5,0 c 1.2465,0 2.25,-0.860143 2.25,-1.928572 0,-0.846288 -0.634365,-1.560442 -1.515626,-1.821428 0.002,-0.03661 0.01563,-0.07007 0.01563,-0.107143 0,-1.182857 -1.008,-2.142857 -2.25,-2.142857 z"
      id="path2876-6-6-4-0"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.49051189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.49051189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>

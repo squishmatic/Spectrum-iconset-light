@@ -36,9 +36,9 @@
   <path
      d="M 3,3 C 2.446,3 2,3.4893865 2,4.09375 l 0,9.8125 C 2,14.510614 2.446,15 3,15 l 14,0 c 0.554,0 1,-0.489386 1,-1.09375 l 0,-9.8125 C 18,3.4893863 17.554,3 17,3 L 3,3 z m 1,2 12,0 0,8 -12,0 0,-8 z m 3,11 0,1 -2,0 0,2 10,0 0,-2 -2,0 0,-1 -6,0 z"
      id="rect2722"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 7.5026178,9.9999989 c 0,0 0.4973822,-0.999999 2.4973822,-0.999999 2,0 2.497382,1.0418841 2.497382,1.0418841 M 6,8.5078533 c 0,0 0.9817579,-1.5499929 4,-1.5078534 3.018242,0.04214 4,1.5078534 4,1.5078534 M 9.434555,11.565445 C 9.434555,11.565445 9.413613,11 10,11 c 0.576517,0 0.481675,0.565445 0.481675,0.565445"
      id="path3445"
-     style="fill:none;stroke:#3c3c3c;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

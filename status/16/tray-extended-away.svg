@@ -63,12 +63,12 @@
   <path
      d="M 7.5,0 C 3.36,0 1e-7,3.3599999 0,7.5 0,11.64 3.3600001,15 7.5,15 c 1.964788,0 3.756106,-0.76222 5.09375,-2 L 18,13 14.65625,9.65625 C 14.864192,8.968633 15,8.255184 15,7.5 15,3.36 11.64,1e-7 7.5,0 z m 0,3 C 9.984,3 12,5.016 12,7.5 12,9.984 9.984,12 7.5,12 5.016,12 3,9.984 3,7.5 3,5.016 5.016,3 7.5,3 z"
      id="path2396"
-     style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
      d="m 9.262048,7.49928 -1.762048,0 0,-2.499999"
      id="path2817"
-     style="fill:none;stroke:#3c3c3c;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
      inkscape:connector-curvature="0" />
   <path
      d="M 11.75,7.49928 C 11.750399,9.846772 9.847491,11.75 7.499999,11.75 5.152508,11.75 3.249602,9.846772 3.25,7.49928 3.249602,5.151788 5.152508,3.248559 7.499999,3.248559 c 2.347492,0 4.2504,1.903229 4.250001,4.250721 z"

@@ -35,6 +35,6 @@
     <path
        d="M 6.5,3.5 2,7 6.5,10 2,14 11,20 20,14 15.5,10 20,7 15.5,3.5 11,7 6.5,3.5 z"
        id="path3967"
-       style="color:#ffffff;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#ffffff;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

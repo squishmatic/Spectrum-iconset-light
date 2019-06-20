@@ -45,7 +45,7 @@
      x="6.25"
      y="7.25"
      id="rect3192"
-     style="opacity:0.3;fill:none;stroke:#000000;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="opacity:0;fill:none;stroke:#000000;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="M 7.5,8 C 7.223,8 7,8.223 7,8.5 l 0,7 C 7,15.777 7.223,16 7.5,16 L 18,16 10,9 16,12 16,8 7.5,8 z m 8.5,0 7,7 -5,-2 0,3 6.5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-7 C 25,8.223 24.777,8 24.5,8 L 16,8 z"
      id="rect3190"

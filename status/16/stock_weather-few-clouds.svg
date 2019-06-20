@@ -53,12 +53,12 @@
      inkscape:connector-curvature="0"
      d="m 12.9497,13.95 -0.565599,-0.565699 m 0.0707,-8.83882 L 12.9497,4.0505009 M 3.6159,4.616181 3.0503,4.0505009 M 1,9.000251 l 1,0 m 12,0 1,0 M 8,3.0002511 8,2.000251"
      id="path2496-2"
-     style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="opacity:0;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      inkscape:connector-curvature="0"
      d="M 8,5 C 5.7908711,4.9999999 4,6.790862 4,9 4,9.286746 4.036407,9.5741 4.09375,9.84375 4.674795,9.316213 5.3949988,8.9375 6.25,8.9375 c 1.615109,0 2.924891,1.187134 3.1875,2.71875 0.30803,0.176257 0.5659,0.410943 0.8125,0.65625 0.0052,0.0052 0.02604,-0.0053 0.03125,0 C 11.333643,11.591924 12,10.371758 12,9 12,6.790861 10.209129,5 8,5 z m -1.75,5 c -0.8447283,0 -1.5684023,0.455366 -1.9531252,1.111607 -0.2166349,-0.154459 -0.493275,-0.254464 -0.7968749,-0.254464 -0.69,0 -1.2499999,0.48 -1.25,1.071428 0,0.132826 0.026505,0.257591 0.078125,0.375 C 1.5433711,12.60412 1,13.284584 1,14.071428 1,15.139857 2.0035,16 3.25,16 l 4.5,0 C 8.9965,16 10,15.139857 10,14.071428 10,13.22514 9.365635,12.510986 8.484374,12.25 c 0.002,-0.03661 0.01563,-0.07007 0.01563,-0.107143 C 8.500004,10.96 7.492004,10 6.250004,10 z"
      id="path2876-6-6-4-0-8"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.49051189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.49051189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="M 12.9497,12.949748 12.384101,12.384049 M 12.454801,3.5452288 12.9497,3.0502487 M 3.6159,3.6159288 3.0503,3.0502487 M 1,7.999999 l 1,0 m 12,0 1,0 M 8,1.9999989 8,0.9999988"
      id="path2496"

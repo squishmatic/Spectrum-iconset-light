@@ -51,7 +51,7 @@
   <defs
      id="defs3215" />
   <g
-     style="opacity:0.3;stroke:#ffffff;stroke-opacity:1"
+     style="opacity:0;stroke:#ffffff;stroke-opacity:1"
      id="g3790"
      transform="translate(-1,0.9999986)">
     <path
@@ -77,7 +77,7 @@
      d="m 10.507463,4.8746361 0.08824,14.1558389" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path2441"
      d="m 17.999747,15 c -1.108,0 -2,0.910763 -2,2.03125 l 0,0.96875 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 c 0,-1.120486 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z" />
   <path

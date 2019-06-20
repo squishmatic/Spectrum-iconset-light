@@ -55,7 +55,7 @@
      transform="translate(0,-24)">
     <path
        id="path3683-6-6"
-       style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 11.91791,43.854 2.85,34.815573 c 0,0 2.8977535,-3.294409 9.131958,-3.294409 6.203557,0 9.168042,3.3 9.168042,3.3 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />

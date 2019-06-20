@@ -51,7 +51,7 @@
      id="defs3214" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3208"
      d="M 2,2 C 0.892,2 0,2.892 0,4 l 0,10 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 16,4 C 16,2.892 15.108,2 14,2 L 2,2 z m 9.03125,2 c 0.05517,0.0053 0.135626,0.03589 0.1875,0.0625 l 1.5625,0.78125 c 0.207499,0.106439 0.269632,0.367709 0.15625,0.5625 l -4.875,8.375 C 7.975693,13.930386 7.793876,14.020032 7.625,14 7.5733,13.9939 7.517381,13.9937 7.46875,13.96875 7.46355,13.96635 3.2187499,10.65625 3.21875,10.65625 3.0112529,10.549811 2.9491197,10.288537 3.0625,10.09375 l 1.03125,-1.25 C 4.2071332,8.648957 4.4800012,8.581059 4.6875,8.6875 L 7,10.4375 10.625,4.21875 C 10.710038,4.072657 10.865742,3.984232 11.03125,4 z" />
   <path

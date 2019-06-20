@@ -50,7 +50,7 @@
   <defs
      id="defs3213" />
   <path
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path3224"
      d="m 8,2 0,2 c -3.312,0 -6,2.688 -6,6 0,3.312 2.688,6 6,6 3.312,0 6,-2.688 6,-6 l -2,0 c 0,2.208 -1.792,4 -4,4 C 5.7920001,14 4,12.208 4,10 4,7.792 5.7919999,6 8,6 L 8,8 13,5 8,2 z"
      inkscape:connector-curvature="0" />

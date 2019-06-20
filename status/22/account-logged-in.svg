@@ -51,7 +51,7 @@
      id="defs3174" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path2396-7"
      d="M 8.9999997,5 C 5.1360001,5 2,8.1360005 2,12 2,15.864 5.1359999,18.999999 8.9999997,19 12.864,19 16,15.864 16,12 16,8.1360001 12.864,5.0000002 8.9999997,5 z M 12,7 14,9 8.4999997,16.5 4.5,13 6.5,11 8.4999997,13 12,7 z" />
   <path
@@ -61,7 +61,7 @@
      d="M 8.9999997,3.9991931 C 5.1360001,3.9991931 2,7.1351936 2,10.999193 c 0,3.864 3.1359999,6.999999 6.9999997,7 3.8640003,0 7.0000003,-3.136 7.0000003,-7 C 16,7.1351932 12.864,3.9991933 8.9999997,3.9991931 z m 3.0000003,2 2,2 L 8.4999997,15.499193 4.5,11.999193 6.5,9.9991931 8.4999997,11.999193 12,5.9991931 z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="opacity:0;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="path3170"
      d="M 4.8544493,11.999193 6.5,10.353642 8.5545307,12.408173 12.054531,6.4081731 13.672816,8.0264584 8.4727347,15.144744 4.8544493,11.999193 z" />
 </svg>

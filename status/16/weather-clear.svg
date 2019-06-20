@@ -54,7 +54,7 @@
   </metadata>
   <path
      sodipodi:type="arc"
-     style="opacity:0.29999999999999999;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none"
      id="path3763"
      sodipodi:cx="8.0064726"
      sodipodi:cy="8.0064726"
@@ -74,7 +74,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path2496-6-1"
-     style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 3.5560485,13.460583 -0.495,0.495 m 4.95,1.0502 0,1 M 12.95,13.954928 l -0.566,-0.566 m 0.071,-8.8387641 0.495,-0.495 m -9.3341,0.5657 -0.5656,-0.5657 M 1,9.0049641 h 1 m 12,0 h 1 m -7,-6 v -1" />
   <path
      id="path2496-6"

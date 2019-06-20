@@ -57,12 +57,12 @@
        inkscape:connector-curvature="0"
        d="m 12.5,12.5 0,-12.0000006 c 0,-0.554 0.445999,-1 1,-1 l 5,0 c 0.553999,0 1,0.446 1,1 L 19.5,12.5 c 0,0.554 -0.446001,1 -1,1 l -4.999999,0 c -0.554001,0 -1,-0.446 -1,-1 z m 2.002639,-13.1184516 c 7e-4,-0.32804 0.0015,-0.656076 0.0025,-0.984108 0.04076,-0.597825 0.649596,-0.976733 1.212194,-0.897474 0.532922,0.023433 1.176896,-0.124121 1.554865,0.363195 0.35076,0.438478 0.191405,1.0212 0.227796,1.537207"
        id="rect2442-9"
-       style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="opacity:0;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        d="m 2.9999995,-1.0000006 c -0.554,0 -1,0.446 -1,0.99999999853505 L 1.9999995,13 c 0,0.554 0.446,1 1,1 L 8,14 c 0.554,0 1,-0.446 1,-1 L 9,-6.0146495e-7 C 9,-0.5540006 8.554,-1.0000006 8,-1.0000006 l -5.0000005,0 z m 0,3 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m 2.0000005,1 1,0 L 8,10 7,10 7,2.9999994 z m -4.0000005,1 1,0 0,1.0000003 -1,0 0,-1.0000003 z m 2,0 1,0 0,1.0000003 -1,0 0,-1.0000003 z m -2,2.0000006 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z m -2,2 1,0 0,1 -1,0 0,-1 z m 2,0 1,0 0,1 -1,0 0,-1 z"
        id="rect2397-1"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69999993;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <rect
        width="12.5"
